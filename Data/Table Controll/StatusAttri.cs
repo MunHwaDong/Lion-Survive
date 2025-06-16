@@ -1,0 +1,16 @@
+public enum StatusAttri
+{
+    NONE,
+    ATTACK,
+    COOLDOWN,
+    PROJECTILE_NUM,
+    SPEED,
+    MAX_HP,
+    RANGE,
+    THROUGH,
+    PROJECTILE_SPEED,
+    SKILL_DURATION,
+    AVOID,
+    RESURRECTION,
+    BLOOD_ABSORBING,
+}
